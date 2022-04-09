@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ianvgs
+-  I’m interested in music, games and learning.
+-  This git profile is hosting all my personal projects, here you will find some code in Javascript/Typescript, Java and Ruby.
+-  It's been a great journey for me. See you soon!
