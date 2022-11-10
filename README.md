@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ian Guedes
 -  I’m interested in music, games and languages.
--  I'v been working as react native developer, having professioanl experience using React, React Native and TSOA(javascript based server).
--  Currently working with Ruby on rails in a full commerce application.
+-  I've been working as a react native developer, having professional experience using React, React Native and TSOA(javascript based server).
+-  Currently working with Ruby on rails in a full commerce/mobile application.
 
 
 
