@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Ian Guedes
--  I’m interested in music, games and languages.
--  I've been working as a react native developer, having professional experience using React, React Native and TSOA(javascript based server).
--  Currently working with Ruby on rails in a full commerce/mobile application.
-
-
-
--  This git profile is hosting all my personal projects, here you will find some code in Javascript/Typescript, Java and Ruby.
+- 👋 Hi, I’m Ian Guedes, a brazilian developer and scrum master certified.
+-  I current work in a  digital solutions advisor position in a Brazilian national Bank, using monstly javascript frameworks like ReactJs, AdonisJS, NestJs and CodeIgniter.
+-  This git profile is hosting all my personal(old & non-professional & without commit conventions...) projects, here you will find some code in Javascript/Typescript, Java and Ruby.
 -  It's been a great journey for me. See you soon!
