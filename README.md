@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ian Guedes, a brazilian developer and scrum master certified.
--  I current work in a  digital solutions advisor position in a Brazilian national Bank, using monstly javascript frameworks like ReactJs, AdonisJS, NestJs and CodeIgniter.
+-  I current work in a position of digital solutions advisor(Full Stack Developer) in a Brazilian national Bank, using monstly javascript frameworks like ReactJs, AdonisJS, NestJs and CodeIgniter(PHP).
 -  This git profile is hosting all my personal(old & non-professional & without commit conventions...) projects, here you will find some code in Javascript/Typescript, Java and Ruby.
 -  It's been a great journey for me. See you soon!
